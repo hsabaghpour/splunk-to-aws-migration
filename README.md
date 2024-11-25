@@ -1,4 +1,3 @@
-# splunk-to-aws-migration
 
 # Splunk to AWS Migration with Data Protection and DLP
 
